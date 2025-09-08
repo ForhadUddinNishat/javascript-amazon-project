@@ -59,8 +59,9 @@ class Clothing extends Product{
     </a>
     `
   }
-
 }
+
+
 
 
 export const products = [
